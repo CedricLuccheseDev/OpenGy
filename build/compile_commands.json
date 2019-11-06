@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/home/lcedric/Projets/OpenGy/build",
+  "command": "/usr/bin/g++   -I/home/lcedric/Projets/OpenGy/./Visual/Include -I/home/lcedric/Projets/OpenGy/./Audio/Include -I/home/lcedric/Projets/OpenGy/./Utils/Include -I/home/lcedric/Projets/OpenGy/./Ressources/Include -I/home/lcedric/Projets/OpenGy/./Scene/Include -I/home/lcedric/Projets/OpenGy/./Engine/Include  -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -g   -std=c++11 -fPIC -std=gnu++14 -o CMakeFiles/OpenGy.dir/Visual/Sources/Sfml/Sprite.cpp.o -c /home/lcedric/Projets/OpenGy/Visual/Sources/Sfml/Sprite.cpp",
+  "file": "/home/lcedric/Projets/OpenGy/Visual/Sources/Sfml/Sprite.cpp"
+},
+{
+  "directory": "/home/lcedric/Projets/OpenGy/build",
+  "command": "/usr/bin/g++   -I/home/lcedric/Projets/OpenGy/./Visual/Include -I/home/lcedric/Projets/OpenGy/./Audio/Include -I/home/lcedric/Projets/OpenGy/./Utils/Include -I/home/lcedric/Projets/OpenGy/./Ressources/Include -I/home/lcedric/Projets/OpenGy/./Scene/Include -I/home/lcedric/Projets/OpenGy/./Engine/Include  -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -g   -std=c++11 -fPIC -std=gnu++14 -o CMakeFiles/OpenGy.dir/Visual/Sources/Sfml/Window.cpp.o -c /home/lcedric/Projets/OpenGy/Visual/Sources/Sfml/Window.cpp",
+  "file": "/home/lcedric/Projets/OpenGy/Visual/Sources/Sfml/Window.cpp"
+},
+{
+  "directory": "/home/lcedric/Projets/OpenGy/build",
+  "command": "/usr/bin/g++   -I/home/lcedric/Projets/OpenGy/./Visual/Include -I/home/lcedric/Projets/OpenGy/./Audio/Include -I/home/lcedric/Projets/OpenGy/./Utils/Include -I/home/lcedric/Projets/OpenGy/./Ressources/Include -I/home/lcedric/Projets/OpenGy/./Scene/Include -I/home/lcedric/Projets/OpenGy/./Engine/Include  -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -g   -std=c++11 -fPIC -std=gnu++14 -o CMakeFiles/OpenGy.dir/Visual/Sources/Sfml/Text.cpp.o -c /home/lcedric/Projets/OpenGy/Visual/Sources/Sfml/Text.cpp",
+  "file": "/home/lcedric/Projets/OpenGy/Visual/Sources/Sfml/Text.cpp"
+},
+{
+  "directory": "/home/lcedric/Projets/OpenGy/build",
+  "command": "/usr/bin/g++   -I/home/lcedric/Projets/OpenGy/./Visual/Include -I/home/lcedric/Projets/OpenGy/./Audio/Include -I/home/lcedric/Projets/OpenGy/./Utils/Include -I/home/lcedric/Projets/OpenGy/./Ressources/Include -I/home/lcedric/Projets/OpenGy/./Scene/Include -I/home/lcedric/Projets/OpenGy/./Engine/Include  -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -g   -std=c++11 -fPIC -std=gnu++14 -o CMakeFiles/OpenGy.dir/Ressources/Sources/Parser/ParserRessourcesFiles.cpp.o -c /home/lcedric/Projets/OpenGy/Ressources/Sources/Parser/ParserRessourcesFiles.cpp",
+  "file": "/home/lcedric/Projets/OpenGy/Ressources/Sources/Parser/ParserRessourcesFiles.cpp"
+},
+{
+  "directory": "/home/lcedric/Projets/OpenGy/build",
+  "command": "/usr/bin/g++   -I/home/lcedric/Projets/OpenGy/./Visual/Include -I/home/lcedric/Projets/OpenGy/./Audio/Include -I/home/lcedric/Projets/OpenGy/./Utils/Include -I/home/lcedric/Projets/OpenGy/./Ressources/Include -I/home/lcedric/Projets/OpenGy/./Scene/Include -I/home/lcedric/Projets/OpenGy/./Engine/Include  -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -g   -std=c++11 -fPIC -std=gnu++14 -o CMakeFiles/OpenGy.dir/Ressources/Sources/Sfml/Ressources.cpp.o -c /home/lcedric/Projets/OpenGy/Ressources/Sources/Sfml/Ressources.cpp",
+  "file": "/home/lcedric/Projets/OpenGy/Ressources/Sources/Sfml/Ressources.cpp"
+},
+{
+  "directory": "/home/lcedric/Projets/OpenGy/build",
+  "command": "/usr/bin/g++   -I/home/lcedric/Projets/OpenGy/./Visual/Include -I/home/lcedric/Projets/OpenGy/./Audio/Include -I/home/lcedric/Projets/OpenGy/./Utils/Include -I/home/lcedric/Projets/OpenGy/./Ressources/Include -I/home/lcedric/Projets/OpenGy/./Scene/Include -I/home/lcedric/Projets/OpenGy/./Engine/Include  -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -g   -std=c++11 -fPIC -std=gnu++14 -o CMakeFiles/OpenGy.dir/Scene/Sources/Parser/ParserSceneFiles.cpp.o -c /home/lcedric/Projets/OpenGy/Scene/Sources/Parser/ParserSceneFiles.cpp",
+  "file": "/home/lcedric/Projets/OpenGy/Scene/Sources/Parser/ParserSceneFiles.cpp"
+},
+{
+  "directory": "/home/lcedric/Projets/OpenGy/build",
+  "command": "/usr/bin/g++   -I/home/lcedric/Projets/OpenGy/./Visual/Include -I/home/lcedric/Projets/OpenGy/./Audio/Include -I/home/lcedric/Projets/OpenGy/./Utils/Include -I/home/lcedric/Projets/OpenGy/./Ressources/Include -I/home/lcedric/Projets/OpenGy/./Scene/Include -I/home/lcedric/Projets/OpenGy/./Engine/Include  -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -g   -std=c++11 -fPIC -std=gnu++14 -o CMakeFiles/OpenGy.dir/Scene/Sources/Sfml/Manager.cpp.o -c /home/lcedric/Projets/OpenGy/Scene/Sources/Sfml/Manager.cpp",
+  "file": "/home/lcedric/Projets/OpenGy/Scene/Sources/Sfml/Manager.cpp"
+},
+{
+  "directory": "/home/lcedric/Projets/OpenGy/build",
+  "command": "/usr/bin/g++   -I/home/lcedric/Projets/OpenGy/./Visual/Include -I/home/lcedric/Projets/OpenGy/./Audio/Include -I/home/lcedric/Projets/OpenGy/./Utils/Include -I/home/lcedric/Projets/OpenGy/./Ressources/Include -I/home/lcedric/Projets/OpenGy/./Scene/Include -I/home/lcedric/Projets/OpenGy/./Engine/Include  -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -g   -std=c++11 -fPIC -std=gnu++14 -o CMakeFiles/OpenGy.dir/Scene/Sources/Sfml/View.cpp.o -c /home/lcedric/Projets/OpenGy/Scene/Sources/Sfml/View.cpp",
+  "file": "/home/lcedric/Projets/OpenGy/Scene/Sources/Sfml/View.cpp"
+},
+{
+  "directory": "/home/lcedric/Projets/OpenGy/build",
+  "command": "/usr/bin/g++   -I/home/lcedric/Projets/OpenGy/./Visual/Include -I/home/lcedric/Projets/OpenGy/./Audio/Include -I/home/lcedric/Projets/OpenGy/./Utils/Include -I/home/lcedric/Projets/OpenGy/./Ressources/Include -I/home/lcedric/Projets/OpenGy/./Scene/Include -I/home/lcedric/Projets/OpenGy/./Engine/Include  -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -g   -std=c++11 -fPIC -std=gnu++14 -o CMakeFiles/OpenGy.dir/Scene/Sources/Functions/Functions.cpp.o -c /home/lcedric/Projets/OpenGy/Scene/Sources/Functions/Functions.cpp",
+  "file": "/home/lcedric/Projets/OpenGy/Scene/Sources/Functions/Functions.cpp"
+},
+{
+  "directory": "/home/lcedric/Projets/OpenGy/build",
+  "command": "/usr/bin/g++   -I/home/lcedric/Projets/OpenGy/./Visual/Include -I/home/lcedric/Projets/OpenGy/./Audio/Include -I/home/lcedric/Projets/OpenGy/./Utils/Include -I/home/lcedric/Projets/OpenGy/./Ressources/Include -I/home/lcedric/Projets/OpenGy/./Scene/Include -I/home/lcedric/Projets/OpenGy/./Engine/Include  -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -g   -std=c++11 -fPIC -std=gnu++14 -o CMakeFiles/OpenGy.dir/Audio/Sources/Sfml/Sound.cpp.o -c /home/lcedric/Projets/OpenGy/Audio/Sources/Sfml/Sound.cpp",
+  "file": "/home/lcedric/Projets/OpenGy/Audio/Sources/Sfml/Sound.cpp"
+},
+{
+  "directory": "/home/lcedric/Projets/OpenGy/build",
+  "command": "/usr/bin/g++   -I/home/lcedric/Projets/OpenGy/./Visual/Include -I/home/lcedric/Projets/OpenGy/./Audio/Include -I/home/lcedric/Projets/OpenGy/./Utils/Include -I/home/lcedric/Projets/OpenGy/./Ressources/Include -I/home/lcedric/Projets/OpenGy/./Scene/Include -I/home/lcedric/Projets/OpenGy/./Engine/Include  -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -g   -std=c++11 -fPIC -std=gnu++14 -o CMakeFiles/OpenGy.dir/Engine/Sources/Instance.cpp.o -c /home/lcedric/Projets/OpenGy/Engine/Sources/Instance.cpp",
+  "file": "/home/lcedric/Projets/OpenGy/Engine/Sources/Instance.cpp"
+},
+{
+  "directory": "/home/lcedric/Projets/OpenGy/build",
+  "command": "/usr/bin/g++   -I/home/lcedric/Projets/OpenGy/./Visual/Include -I/home/lcedric/Projets/OpenGy/./Audio/Include -I/home/lcedric/Projets/OpenGy/./Utils/Include -I/home/lcedric/Projets/OpenGy/./Ressources/Include -I/home/lcedric/Projets/OpenGy/./Scene/Include -I/home/lcedric/Projets/OpenGy/./Engine/Include  -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -g   -std=c++11 -fPIC -std=gnu++14 -o CMakeFiles/OpenGy.dir/Engine/Sources/Component.cpp.o -c /home/lcedric/Projets/OpenGy/Engine/Sources/Component.cpp",
+  "file": "/home/lcedric/Projets/OpenGy/Engine/Sources/Component.cpp"
+},
+{
+  "directory": "/home/lcedric/Projets/OpenGy/build",
+  "command": "/usr/bin/g++   -I/home/lcedric/Projets/OpenGy/./Visual/Include -I/home/lcedric/Projets/OpenGy/./Audio/Include -I/home/lcedric/Projets/OpenGy/./Utils/Include -I/home/lcedric/Projets/OpenGy/./Ressources/Include -I/home/lcedric/Projets/OpenGy/./Scene/Include -I/home/lcedric/Projets/OpenGy/./Engine/Include  -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -g   -std=c++11 -fPIC -std=gnu++14 -o CMakeFiles/OpenGy.dir/Engine/Sources/Entity.cpp.o -c /home/lcedric/Projets/OpenGy/Engine/Sources/Entity.cpp",
+  "file": "/home/lcedric/Projets/OpenGy/Engine/Sources/Entity.cpp"
+},
+{
+  "directory": "/home/lcedric/Projets/OpenGy/build",
+  "command": "/usr/bin/g++   -I/home/lcedric/Projets/OpenGy/./Visual/Include -I/home/lcedric/Projets/OpenGy/./Audio/Include -I/home/lcedric/Projets/OpenGy/./Utils/Include -I/home/lcedric/Projets/OpenGy/./Ressources/Include -I/home/lcedric/Projets/OpenGy/./Scene/Include -I/home/lcedric/Projets/OpenGy/./Engine/Include  -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -g   -std=c++11 -fPIC -std=gnu++14 -o CMakeFiles/OpenGy.dir/Engine/Sources/System.cpp.o -c /home/lcedric/Projets/OpenGy/Engine/Sources/System.cpp",
+  "file": "/home/lcedric/Projets/OpenGy/Engine/Sources/System.cpp"
+}
+]
